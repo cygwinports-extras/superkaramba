@@ -1,0 +1,4 @@
+category: KDE
+requires: libgcc1 libkdecore5 libplasma3 libqimageblitz4 libQtCore4 libQtDBus4 libQtGui4 libQtNetwork4 libQtSvg4 libQtXml4 libstdc++6 libX11_6 libXrender1 python
+sdesc: "KDE desktop widgets"
+ldesc: "KDE utilities suite"
