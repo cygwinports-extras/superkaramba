@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="superkaramba"
+VERSION=4.8.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE desktop widgets"
+DESCRIPTION="KDE utilities suite"
