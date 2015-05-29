@@ -6,3 +6,5 @@ RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE desktop widgets"
 DESCRIPTION="Part of the KDE utilities suite"
+
+REQUIRES="kde-runtime"
